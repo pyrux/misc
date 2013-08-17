@@ -1,7 +1,7 @@
 PKG_REPO=/Users/rfoucher/Documents/
 
 NAGIOSMGR_NAME=nagios-mgr
-NAGIOSMGR_VERSION=1.1.0-3
+NAGIOSMGR_VERSION=1.1.1-1
 NAGIOSMGR_LABEL="Nagios manager client manage backend database for Ninja"
 NAGIOSMGR_LOCATION=~/darwinbuild/nagios_mgr/
 NAGIOSMGR_PATH=usr/local/nagios/addons/nagios_mgr/
